@@ -4,8 +4,6 @@
 
 # Curso de Node.js desde cero ❇️
 
-Curso para aprender **Node** de forma práctica
-**[Todos los jueves a las 18PM 🇪🇸 en Twitch](https://twitch.tv/midudev)**
 </div>
 
 ## 📹 Videos con las clases
